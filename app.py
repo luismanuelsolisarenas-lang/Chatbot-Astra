@@ -68,7 +68,7 @@ CONFIG_INSTRUCCIONES = types.GenerateContentConfig(
 # 4. CONFIGURACIÓN DEL MODELO DE GEMINI
 # ==============================================================================
 
-MODELO = "gemini-3.8-flash"
+MODELO = "gemini-3.5-flash"
 
 # ==============================================================================
 # 5. INICIALIZACIÓN DEL CLIENTE Y MEMORIA
